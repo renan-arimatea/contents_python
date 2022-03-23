@@ -25,6 +25,24 @@ Regras mais utilizadas:
 3) Linhas em branco:
 - Seu programa deve haver sempre 01 linha em branco no final;
 - Separe funções e classes com 02 linhas em branco.
+
+4) Importação:
+- Se você deseja fazer importação de duas bibliotecas, importe uma por vez e logo no início do programa (Após os comentários iniciais e antes da declaração da primeira variável/função)
+
+5) Uso de espaços:
+- Nunca utilize espaços antes ou deppis de chaves, colchetes ou parentêses
+- Use um espaço antes e depois quando declarar uma variável ou usar um operador do tipo <,>,==, dentre outros.
+    Ex:
+    def x():
+        pass
+        
+    y = 10
+    
+6) Nomeclatura de variáveis:
+- Utilizar letras Minusculas separadas por underline (_)
+- Utilizar letras Maiusculas separadas por underline (_)
+- Utilizar palavras começando com letras Maiusculas.
+
 """
 
 print('Hello World!')
